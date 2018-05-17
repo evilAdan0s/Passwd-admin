@@ -1,0 +1,13 @@
+F:\WorkProject\PwdManager\PwdMgr\PwdMgr.Lib\bin\Debug\PwdMgr.Lib.dll
+F:\WorkProject\PwdManager\PwdMgr\PwdMgr.Lib\bin\Debug\PwdMgr.Lib.pdb
+F:\WorkProject\PwdManager\PwdMgr\PwdMgr.Lib\obj\Debug\PwdMgr.Lib.csprojResolveAssemblyReference.cache
+F:\WorkProject\PwdManager\PwdMgr\PwdMgr.Lib\obj\Debug\PwdMgr.Lib.csproj.CoreCompileInputs.cache
+F:\WorkProject\PwdManager\PwdMgr\PwdMgr.Lib\obj\Debug\PwdMgr.Lib.dll
+F:\WorkProject\PwdManager\PwdMgr\PwdMgr.Lib\obj\Debug\PwdMgr.Lib.pdb
+F:\WorkProject\PwdManager\PwdMgr\PwdMgr.Lib\bin\Debug\Aspose.Cells.dll
+E:\PwdManager-master\PwdMgr\PwdMgr.Lib\bin\Debug\PwdMgr.Lib.dll
+E:\PwdManager-master\PwdMgr\PwdMgr.Lib\bin\Debug\PwdMgr.Lib.pdb
+E:\PwdManager-master\PwdMgr\PwdMgr.Lib\bin\Debug\Aspose.Cells.dll
+E:\PwdManager-master\PwdMgr\PwdMgr.Lib\obj\Debug\PwdMgr.Lib.csprojResolveAssemblyReference.cache
+E:\PwdManager-master\PwdMgr\PwdMgr.Lib\obj\Debug\PwdMgr.Lib.dll
+E:\PwdManager-master\PwdMgr\PwdMgr.Lib\obj\Debug\PwdMgr.Lib.pdb
